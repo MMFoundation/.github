@@ -15,7 +15,8 @@ Everyone taking part follows the [code of conduct](CODE_OF_CONDUCT.md).
 | Translate it | [Crowdin](https://translate.wallpapermachine.app/project/wallpaper-machine) | [Docs/localization.md](https://github.com/MMFoundation/OhMyShot/blob/main/Docs/localization.md) |
 
 Questions, ideas, and anything that spans more than one project go to the
-organization's [Discussions](https://github.com/orgs/MMFoundation/discussions).
+organization's [Discussions](https://github.com/orgs/MMFoundation/discussions) or its
+[Discord](https://mmfoundation.dev/discord).
 
 ## Vulnerabilities
 

@@ -32,7 +32,8 @@
         <a href="https://www.wallpapermachine.app/download"><b>Download</b></a>&ensp;·&ensp;
         <a href="https://www.wallpapermachine.app">Website</a>&ensp;·&ensp;
         <a href="https://github.com/MMFoundation/WallpaperMachine">Source</a>&ensp;·&ensp;
-        <a href="https://github.com/MMFoundation/WallpaperMachine/discussions">Discussions</a>
+        <a href="https://github.com/MMFoundation/WallpaperMachine/discussions">Discussions</a>&ensp;·&ensp;
+        <a href="https://mmfoundation.dev/discord">Discord</a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -54,7 +55,8 @@
       <p>
         <a href="https://github.com/MMFoundation/ohmyshot#build-and-run"><b>Build from source</b></a>&ensp;·&ensp;
         <a href="https://github.com/MMFoundation/ohmyshot">Source</a>&ensp;·&ensp;
-        <a href="https://github.com/MMFoundation/ohmyshot/blob/main/CHANGELOG.md">Changelog</a>
+        <a href="https://github.com/MMFoundation/ohmyshot/blob/main/CHANGELOG.md">Changelog</a>&ensp;·&ensp;
+        <a href="https://mmfoundation.dev/discord">Discord</a>
       </p>
     </td>
   </tr>
