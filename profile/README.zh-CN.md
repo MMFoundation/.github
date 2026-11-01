@@ -29,7 +29,8 @@
         <a href="https://www.wallpapermachine.app/download"><b>免费下载</b></a>&ensp;·&ensp;
         <a href="https://www.wallpapermachine.app/zh/">官网</a>&ensp;·&ensp;
         <a href="https://github.com/MMFoundation/WallpaperMachine/blob/main/README.zh-CN.md">源代码</a>&ensp;·&ensp;
-        <a href="https://github.com/MMFoundation/WallpaperMachine/discussions">讨论区</a>
+        <a href="https://github.com/MMFoundation/WallpaperMachine/discussions">讨论区</a>&ensp;·&ensp;
+        <a href="https://mmfoundation.dev/discord">Discord</a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -51,7 +52,8 @@
       <p>
         <a href="https://github.com/MMFoundation/ohmyshot#build-and-run"><b>从源代码构建</b></a>&ensp;·&ensp;
         <a href="https://github.com/MMFoundation/ohmyshot">源代码</a>&ensp;·&ensp;
-        <a href="https://github.com/MMFoundation/ohmyshot/blob/main/CHANGELOG.md">更新日志</a>
+        <a href="https://github.com/MMFoundation/ohmyshot/blob/main/CHANGELOG.md">更新日志</a>&ensp;·&ensp;
+        <a href="https://mmfoundation.dev/discord">Discord</a>
       </p>
     </td>
   </tr>
