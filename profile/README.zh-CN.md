@@ -62,6 +62,6 @@
 <p align="center">
   <sub>
     发现问题或有想法？请到对应应用的仓库提交 Issue。<br>
-    如果 WallpaperMachine 值得留在你的桌面上，欢迎<a href="https://www.wallpapermachine.app/zh/pricing/">成为支持者</a>。
+    想支持我们的工作，欢迎<a href="https://opencollective.com/mmfoundation">在 Open Collective 上赞助 MMFoundation</a>，每一笔赞助和开销都公开可查。
   </sub>
 </p>

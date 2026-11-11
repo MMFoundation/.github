@@ -65,6 +65,6 @@
 <p align="center">
   <sub>
     Found a bug or have an idea? Open an issue in the app's repository.<br>
-    If WallpaperMachine earns a place on your desktop, you can <a href="https://www.wallpapermachine.app/pricing/">become a Supporter</a>.
+    To back the work, <a href="https://opencollective.com/mmfoundation">sponsor MMFoundation on Open Collective</a>, where every contribution and expense is public.
   </sub>
 </p>
